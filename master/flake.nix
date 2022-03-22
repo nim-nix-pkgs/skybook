@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-skybook-master.flake = false;
+  inputs.src-skybook-master.ref   = "refs/heads/master";
   inputs.src-skybook-master.owner = "muxueqz";
-  inputs.src-skybook-master.ref   = "master";
   inputs.src-skybook-master.repo  = "skybook";
   inputs.src-skybook-master.type  = "github";
   

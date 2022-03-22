@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-skybook-1_0.flake = false;
+  inputs.src-skybook-1_0.ref   = "refs/tags/1.0";
   inputs.src-skybook-1_0.owner = "muxueqz";
-  inputs.src-skybook-1_0.ref   = "1_0";
   inputs.src-skybook-1_0.repo  = "skybook";
   inputs.src-skybook-1_0.type  = "github";
   
