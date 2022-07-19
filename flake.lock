@@ -696,11 +696,11 @@
       },
       "locked": {
         "dir": "1_0",
-        "lastModified": 1658019332,
-        "narHash": "sha256-l0J5FnmSsv/KDs6DUyuzEIaUo8JJOfE2/LPj1/T5I28=",
+        "lastModified": 1658033231,
+        "narHash": "sha256-xzswgQtlKQhzDywlEB8WyjYvnmCVV5T/4ixRssgBxeA=",
         "owner": "nim-nix-pkgs",
         "repo": "skybook",
-        "rev": "1be3ce0426d229f1ff43b091e833ddf3cf0f6c9d",
+        "rev": "ed50aa4e9a7474f6e993aa3fb09844035e3132af",
         "type": "github"
       },
       "original": {
@@ -724,11 +724,11 @@
       },
       "locked": {
         "dir": "1_0_1",
-        "lastModified": 1658019332,
-        "narHash": "sha256-l0J5FnmSsv/KDs6DUyuzEIaUo8JJOfE2/LPj1/T5I28=",
+        "lastModified": 1658033231,
+        "narHash": "sha256-xzswgQtlKQhzDywlEB8WyjYvnmCVV5T/4ixRssgBxeA=",
         "owner": "nim-nix-pkgs",
         "repo": "skybook",
-        "rev": "1be3ce0426d229f1ff43b091e833ddf3cf0f6c9d",
+        "rev": "ed50aa4e9a7474f6e993aa3fb09844035e3132af",
         "type": "github"
       },
       "original": {
@@ -752,11 +752,11 @@
       },
       "locked": {
         "dir": "1_0_2",
-        "lastModified": 1658019332,
-        "narHash": "sha256-l0J5FnmSsv/KDs6DUyuzEIaUo8JJOfE2/LPj1/T5I28=",
+        "lastModified": 1658033231,
+        "narHash": "sha256-xzswgQtlKQhzDywlEB8WyjYvnmCVV5T/4ixRssgBxeA=",
         "owner": "nim-nix-pkgs",
         "repo": "skybook",
-        "rev": "1be3ce0426d229f1ff43b091e833ddf3cf0f6c9d",
+        "rev": "ed50aa4e9a7474f6e993aa3fb09844035e3132af",
         "type": "github"
       },
       "original": {
@@ -780,11 +780,11 @@
       },
       "locked": {
         "dir": "1_0_3",
-        "lastModified": 1658019332,
-        "narHash": "sha256-l0J5FnmSsv/KDs6DUyuzEIaUo8JJOfE2/LPj1/T5I28=",
+        "lastModified": 1658033231,
+        "narHash": "sha256-xzswgQtlKQhzDywlEB8WyjYvnmCVV5T/4ixRssgBxeA=",
         "owner": "nim-nix-pkgs",
         "repo": "skybook",
-        "rev": "1be3ce0426d229f1ff43b091e833ddf3cf0f6c9d",
+        "rev": "ed50aa4e9a7474f6e993aa3fb09844035e3132af",
         "type": "github"
       },
       "original": {
@@ -808,11 +808,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1658019332,
-        "narHash": "sha256-l0J5FnmSsv/KDs6DUyuzEIaUo8JJOfE2/LPj1/T5I28=",
+        "lastModified": 1658033231,
+        "narHash": "sha256-xzswgQtlKQhzDywlEB8WyjYvnmCVV5T/4ixRssgBxeA=",
         "owner": "nim-nix-pkgs",
         "repo": "skybook",
-        "rev": "1be3ce0426d229f1ff43b091e833ddf3cf0f6c9d",
+        "rev": "ed50aa4e9a7474f6e993aa3fb09844035e3132af",
         "type": "github"
       },
       "original": {
